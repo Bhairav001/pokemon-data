@@ -1,0 +1,16 @@
+{
+    "pokemon":[
+        {"id":1, "number":"#001", "name":"Bulbasaur", "type":"Grass", "version":"Poison", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"},
+        {"id":2, "number":"#002", "name":"Lvysaur", "type":"Grass", "version":"Poison", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png"},
+        {"id":3, "number":"#003", "name":"Venusaur", "type":"Grass", "version":"Poison", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png"},
+        {"id":4, "number":"#004", "name":"Charmander", "type":"Fire", "version":"Flying", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"},
+        {"id":5, "number":"#005", "name":"Charmeleon", "type":"Fire", "version":"Flying", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png"},
+        {"id":6, "number":"#006", "name":"Charizard", "type":"Fire", "version":"Flying", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png"},
+        {"id":7, "number":"#007", "name":"Squrtle", "type":"Water", "version":"Fairly", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"},
+        {"id":8, "number":"#008", "name":"Wartortle", "type":"Water", "version":"Fairly", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png"},
+        {"id":9, "number":"#009", "name":"Blastoise", "type":"Water", "version":"Fighting", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"},
+        {"id":10, "number":"#0010", "name":"Catterpie", "type":"Bug", "version":"Fighting", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png"},
+        {"id":11, "number":"#0011", "name":"Metapod", "type":"Bug", "version":"Fighting", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png"},
+        {"id":12, "number":"#0012", "name":"Butterfree", "type":"Bug", "version":"Bug", "img_url":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png"}
+    ]
+}
